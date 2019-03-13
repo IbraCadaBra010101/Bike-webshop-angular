@@ -1,0 +1,32 @@
+
+.navbar {
+  background-color: #c0b285;
+  margin-top: 10px;
+  z-index: 1000;
+}
+
+.logo {
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  background-color:  #c0b285;
+  color: #333333;
+  padding: 1.5em;
+  text-transform: uppercase;
+  font-size: .8em;
+  font-family: 'Raleway', sans-serif;
+}
+/*div > p:hover{*/
+  /*transform: scale(1.05);*/
+  /*transition:  1.5s;*/
+/*}*/
+ a:hover{
+  transform: scale(1.5);
+  transition: 1.5s;
+   color: white;
+   font-weight: bold;
+
+
+}

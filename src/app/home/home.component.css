@@ -1,0 +1,23 @@
+#section-a{
+  text-align: left;
+  background: #c0b285;
+  color: #f9fbff;
+  padding-bottom:2em;
+}
+div>img:hover {
+  transform: scale(1.05);
+  transition: 1.5s;
+}
+p,h2{
+  margin: 60px;
+}
+div > p:hover{
+  transform: scale(1.05);
+  transition:  1.5s;
+}
+.box> p:hover, h2:hover{
+  transform: scale(1.05);
+  transition: 1.5s;
+
+
+}
